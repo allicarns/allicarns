@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### I'm a new software developer. 
+### I'm currently learning javascript. 
 <!--
 **allicarns/allicarns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
